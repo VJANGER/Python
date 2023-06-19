@@ -1,0 +1,1 @@
+print("hola mundo") #esquina sup derecha icono flecha triancular es el run de python
